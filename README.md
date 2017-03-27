@@ -33,7 +33,7 @@ Configure Scripts
 -------------
 
 **The Sheet**
-1. Clone the Google Sheet using [this template](goo.gl/1UYKjZ)
+1. Clone the Google Sheet using [this template](https://goo.gl/1UYKjZ)
 2. Click the blue share button, then "Get Shareable Link"
 3. Copy the link it provides
 4.  Replace "/edit?usp=sharing" with "/export?format=csv" this is the link needed for make.sh
